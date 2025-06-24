@@ -1,16 +1,10 @@
-# ![Logo](c)
+# ![Logo]([c](https://raw.githubusercontent.com/Kreopolisz/Kreopolis-/refs/heads/main/c/logo.svg))
 
-## Who We Are
+## Disocrd Developer
 
-We develop **discord.js**, a powerful JavaScript/TypeScript library that allows one to interact with the Discord API.  
-discord.js is also maintained by developers like you—feel free to contribute!
+I Am Trying to learn coding
 
-- [Discord Server](https://discord.gg/bRCvFy9)
-- [Guide](https://discordjs.guide)
-- [Related Libraries](https://discord.js.org/#/docs/main/stable/general/welcome)
-- [Website](https://discord.js.org)
+- [Find Me](https://guns.lol/kreopolizz)
 
----
-
-Our current project can be viewed [here](https://github.com/discordjs/discord.js).
+---------------------------------------------------------------------------------------------------
 
