@@ -1,4 +1,4 @@
-# ![Logo]([c](https://raw.githubusercontent.com/Kreopolisz/Kreopolis-/refs/heads/main/c/logo.svg))
+# ![Logo](https://raw.githubusercontent.com/Kreopolisz/Kreopolis-/refs/heads/main/logo.svg)
 
 ## Disocrd Developer
 
